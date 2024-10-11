@@ -16,7 +16,7 @@
 2. **Navigate to the project directory**:
 
     ```bash
-    cd pinterest-backend
+    cd Instagram-Clone
     ```
 3. **Install dependencies:**
     ```bash
